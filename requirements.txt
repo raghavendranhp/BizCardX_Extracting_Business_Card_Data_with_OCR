@@ -1,3 +1,7 @@
+sqlalchemy
+regex
+Pillow
+io
 easyocr==1.7.1
 opencv-python-headless
 Pillow==10.0.1
