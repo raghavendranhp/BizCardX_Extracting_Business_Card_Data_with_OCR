@@ -52,7 +52,7 @@ To deploy Cardify using Streamlit Cloud, follow these steps:
   
 2.Install the required Python packages  
 3.Deploy the Streamlit app on Streamlit Cloud by using the Streamlit CLI.  
-4.Access the deployed application   [application](https://raghavendranhpprojectbizcardx.streamlit.app/)
+4.Access the deployed application--[open app](https://raghavendranhpprojectbizcardx.streamlit.app/)
 
 ## Business Values/Insights
 **Efficiency:**  
