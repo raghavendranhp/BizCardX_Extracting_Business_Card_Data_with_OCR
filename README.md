@@ -48,7 +48,7 @@ To deploy Cardify using Streamlit Cloud, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/raghavendranhp/BizCardX_Extracting_Business_Card_Data_with_OCR.git
+   git clone https://github.com/raghavendranhp/Cardify_Extracting_Business_Card_Data_and_Management.git
   
 2.Install the required Python packages  
 3.Deploy the Streamlit app on Streamlit Cloud by using the Streamlit CLI.  
